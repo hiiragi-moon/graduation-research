@@ -1,4 +1,4 @@
-# reseash-grad
+# Graduation Reseash
 
 ## 概要
 
