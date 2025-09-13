@@ -1,0 +1,22 @@
+{
+  "name": "reseash-grad",
+  "version": "1.0.0",
+  "description": "A project for reseash grad application with TypeScript.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "reseash",
+    "grad",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}

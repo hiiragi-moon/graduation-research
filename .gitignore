@@ -1,0 +1,11 @@
+# ルート固定で無視（先頭の / がポイント）
+/datas/
+/artifacts/
+/pretreatment/trannotationdatas/
+/pretreatment/json_files/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+results_fold_*
+results_useronly_fold_*
