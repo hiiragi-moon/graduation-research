@@ -7,3 +7,5 @@ __pycache__/
 *.pyc
 .venv/
 .DS_Store
+results_fold_*
+results_useronly_fold_*
