@@ -1,7 +1,8 @@
 # ルート固定で無視（先頭の / がポイント）
 /datas/
 /artifacts/
-/pretreatment/trannotationdatas/
+/pretreatment/annotationdatas/
+/pretreatment/raw_data/
 /pretreatment/json_files/
 __pycache__/
 *.pyc
@@ -10,4 +11,4 @@ __pycache__/
 results_fold_*
 results_useronly_fold_*
 
-/pretreatment/raw_data/
+
