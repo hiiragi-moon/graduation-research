@@ -3,7 +3,7 @@ import csv
 import random
 
 # 入力ファイルと出力ファイルを指定
-input_file = 'cleaned.json'
+input_file = 'raw-data/cleaned.json'
 output_file = 'negative_cases_random.csv'
 
 # 負例を抽出する関数

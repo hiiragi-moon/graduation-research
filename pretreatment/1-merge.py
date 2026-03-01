@@ -2,8 +2,8 @@ import json
 import os
 
 # JSONファイルが格納されているディレクトリと出力する統合ファイル名
-input_dir = 'src/pretreatment/json_files'  # JSONファイルが保存されているフォルダ名
-output_file = 'src/pretreatment/merged.json'  # 統合されたJSONファイルの保存先
+input_dir = 'pretreatment/json_files'  # JSONファイルが保存されているフォルダ名
+output_file = 'pretreatment/merged.json'  # 統合されたJSONファイルの保存先
 
 # 統合するためのリスト
 merged_data = []

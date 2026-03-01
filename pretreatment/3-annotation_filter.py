@@ -3,7 +3,7 @@ import csv
 import re
 
 # 入力ファイルと出力ファイル
-INPUT_FILE = "cleaned.json"
+INPUT_FILE = "raw-data/cleaned.json"
 OUTPUT_FILE = "spot_requirement_pairs.csv"
 
 def tidy_inline(s: str) -> str:

@@ -2,8 +2,8 @@ import json
 import re
 
 # ===== 設定 =====
-INPUT_FILE = "merged.json"
-OUTPUT_FILE = "cleaned.json"
+INPUT_FILE = "raw-data/merged.json"
+OUTPUT_FILE = "raw-data/cleaned.json"
 REMOVE_TAGS = {"AutoPositive", "AutoNegative", "Stalling"}
 
 def tidy_text(s: str) -> str:
